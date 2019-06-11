@@ -1,0 +1,7 @@
+1> asda, 21, 1, 12, asd
+2> druga, 2, 1, 23, sdfsdf
+3> awdasdas, 123, 2, 213, awd
+4> ewrwer, 4, 1, 4, fsdf
+5> gdfgdfg, 333, 1, 4, 1sdf
+6> asd, 3, 3, 23, sdf
+7> dfdg, 32434, 1, 5345, dfg
